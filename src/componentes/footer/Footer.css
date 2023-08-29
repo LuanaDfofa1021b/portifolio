@@ -6,7 +6,7 @@ footer{
     justify-content:space-between;
 }
 .whatsapp{
-  background:url("../../../public/ZAP\ \(1\).png");
+  background:url("/ZAP\ \(1\).png");
   height:30px;
   width:30px;
   background-size:100%;
