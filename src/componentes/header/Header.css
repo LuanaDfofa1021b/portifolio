@@ -6,7 +6,7 @@ header{
     align-items: center;
 }
 .logo{
-    background: url("../../../public/portifolio.png");
+    background: url("/portifolio.png");
     height: 100px;
   width: 300px;
   background-size: 90%;
