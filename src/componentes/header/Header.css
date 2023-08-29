@@ -29,3 +29,8 @@ header nav ul{
     list-style: none;
     gap: 10px;
 }
+header nav ul li a:hover{
+    cursor: pointer;
+    color: black;
+}
+
