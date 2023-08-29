@@ -3,10 +3,13 @@ function Footer(){
 return(
     <footer>
       <nav className="nav1">
-        <div className="icones">
-          <div className="whatsapp"></div>
-          <div className="instagram"></div>
-          <div className="facebook"></div>
+        <div className='container'>
+          <div className='logo2'></div>
+          <div className="icones">
+            <div className="whatsapp"></div>
+            <div className="instagram"></div>
+            <div className="facebook"></div>
+          </div>
         </div>
         <ul className="topicos"><a className="topo">INÍCIO</a>
           <li className="lista">

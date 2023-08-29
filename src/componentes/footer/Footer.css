@@ -53,6 +53,10 @@ footer{
   align-items: flex-end;
   color:white;
 }
+.marcaDagua :hover{
+  cursor:pointer;
+  color:black;
+}
 
 .lista{
   list-style:none;
@@ -98,9 +102,25 @@ footer{
 }
 
 .icones{
-  width:200px;
+  width:170px;
   display:flex;
-  justify-content:space-between;
+  justify-content:space-around;
   margin-right:500px;
-  margin-left:50px;
+  margin-left:25px;
+}
+
+.logo2{
+  background: url('/portifolio.png');
+  height: 70px;
+  width: 300px;
+  background-size: 90%;
+  background-repeat: no-repeat;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 250px;
+  padding: 0px 300px 0px 200px ;
 }
