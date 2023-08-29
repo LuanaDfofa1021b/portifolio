@@ -1,0 +1,106 @@
+footer{
+    background-color: #d33c73;
+    padding: 28px 0px 0px 0;
+
+    display:flex;
+    justify-content:space-between;
+}
+.whatsapp{
+  background:url("ZAP.png");
+  height:30px;
+  width:30px;
+  background-size:100%;
+  display:flex;
+  align-self:center;
+  margin-right:15px;
+}
+.facebook{
+  background:url("https://www.pngplay.com/wp-content/uploads/9/Facebook-No-Background.png");
+  height:30px;
+  width:30px;
+  background-size:100%;
+  align-self:center;
+}
+.instagram{
+  background:url("https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-lighting-and-furniture-design-studio-aqua-creations-32.png");
+  height:30px;
+  width:30px;
+  background-size:100%;
+  align-self:center;
+  margin-right:15px;
+}
+.padrao{
+  list-style:none;
+  padding:2px 0px;
+}
+
+.text{
+  text-decoration:none;
+  color:white;
+  font-size:18px;
+}
+
+.contatos{
+  padding:0px 0px 0px 80px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+}
+
+.marcaDagua{
+  padding: 50px 30px 0px 0px;
+  display: flex;
+  align-items: flex-end;
+  color:white;
+}
+
+.lista{
+  list-style:none;
+  padding:5px 0px;
+}
+
+.nav1{
+  width:600px;
+  display:flex;
+  justify-content:space-between;
+  text-align:center;
+}
+
+.topicos{
+  display:flex;
+  flex-direction:column;
+  justify-content:space-around;
+  padding: 0px 0px 0px 80px;
+  align-items:center;
+  color:white;
+}
+
+.text2{
+  text-decoration:none;  
+  color:snow;
+  font-size:18px;
+}
+
+.topo{
+  font-size:22px;
+  font-weight:bold;
+  color:white;
+}
+
+.text2:hover{
+  cursor:pointer;
+  color:black;
+}
+
+.text:hover{
+  cursor:pointer;
+  color:black;
+}
+
+.icones{
+  width:200px;
+  display:flex;
+  justify-content:space-between;
+  margin-right:500px;
+  margin-left:50px;
+}

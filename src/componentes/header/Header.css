@@ -1,0 +1,31 @@
+header{
+    background-color: #d33c73;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 10vw;
+    align-items: center;
+}
+.logo{
+    background: url("../../../public/portifolio.png");
+    height: 100px;
+  width: 300px;
+  background-size: 90%;
+  background-repeat: no-repeat;
+  margin-left: 0px;
+  margin-right: 80px;
+  margin-top: 30px;
+}
+
+header nav ul li a{
+    text-decoration: none;
+    padding: 15px;
+    border: 1px solid white;
+    color: white;
+    align-items: center;
+
+}
+header nav ul{
+    display: flex;
+    list-style: none;
+    gap: 10px;
+}
