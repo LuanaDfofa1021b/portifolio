@@ -1,19 +1,18 @@
 header{
-    background-color: #d33c73;
+    background-color: #f699cd;
     display: flex;
     justify-content: space-between;
-    padding: 20px 10vw;
+    padding: 15px 4vw;
     align-items: center;
 }
 .logo{
-    background: url("/portifolio.png");
-    height: 100px;
-  width: 300px;
+    background: url("/port.png");
+    height: 150px;
+  width: 370px;
   background-size: 90%;
   background-repeat: no-repeat;
-  margin-left: 0px;
-  margin-right: 80px;
-  margin-top: 30px;
+  margin-right: 100px;
+  margin-top: 20px;
 }
 
 header nav ul li a{
@@ -31,6 +30,6 @@ header nav ul{
 }
 header nav ul li a:hover{
     cursor: pointer;
-    color: black;
+    color: #d33c73;
 }
 

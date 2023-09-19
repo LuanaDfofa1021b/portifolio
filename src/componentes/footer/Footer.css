@@ -1,5 +1,5 @@
 footer{
-    background-color: #d33c73;
+    background-color: #f699cd;
     padding: 28px 0px 0px 0;
 
     display:flex;
@@ -93,12 +93,12 @@ footer{
 
 .text2:hover{
   cursor:pointer;
-  color:black;
+  color:#d33c73;
 }
 
 .text:hover{
   cursor:pointer;
-  color:black;
+  color:#d33c73;
 }
 
 .icones{
@@ -110,10 +110,10 @@ footer{
 }
 
 .logo2{
-  background: url('/portifolio.png');
-  height: 70px;
+  background: url('/port.png');
+  height: 100px;
   width: 300px;
-  background-size: 90%;
+  background-size: 70%;
   background-repeat: no-repeat;
 }
 

@@ -1,35 +1,24 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
-main{
-    height: 700px;
-    background-color: rgb(221, 217, 211);
+.content-main{
+    padding: 50px;
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    justify-content: center;
+    column-gap: 30px;
+    row-gap: 30px;
 }
-
-.foto{
-    background: url("../../../public/2023-lu.png");
-    height:700px;
-    width:450px;
-    background-size:100%;
-    display:flex;
-    align-self:center;
-    margin-right:15px;
-    background-repeat: no-repeat;
-    margin-left: 30px;
-    margin-top: 20px;
-  
+.barrapesquisa{
+    height: 30px;
+    border: 1px solid #d33c73;
+    width: 30%;
+    border-radius: 5px;
+    font-size: 1.4rem;
 }
-.escrita{
-    display: flex;
-    justify-content: space-around;
-    width: 100%;
-
+.barradepesquisa:focus-visible{
+    outline: 1px solid #d33c73;
 }
-.texto1{
-    width: 500px;
-    margin-top: 190px;
-    margin-right: 300px;
+.pesquisa{
+    padding: 50px;
+    text-align: center;
     font-size: 20px;
-    color: white;
-}
-.a{
-    font-family: 'Quicksand', sans-serif;
+  color: #d33c73;
 }
