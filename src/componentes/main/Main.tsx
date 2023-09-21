@@ -45,19 +45,19 @@ export default function Main() {
     {
         id:5,
         titulo:"Evento",
-         sinopse:" Esta foto foi tirada durante o show do Mc WM que ocorreu no Arena Beer de Naviraí. Foi um evento incrível, repleto de energia e música envolvente. Foi definitivamente uma noite para lembrar",
-        imagem:"/show.jpg"
+         sinopse:" Esta foto foi tirada no casamneto da mãe da Vitória, foi um momento muito emocionante",
+        imagem:"/euluana.png"
     },
     {
         id:6,
-        titulo:"Minha Melhor Amiga",
+        titulo:"Melhor Amiga",
          sinopse:" Essa pessoa da foto é a Vitoria, pe minha melhor amiga a quase 10 anos, nos conhecemos na escola no ensino fundamental e desde aquela epoca nao nos larcamos .",
         imagem:"/se.png"
     },
     {
         id:7,
         titulo:"Minha Prima",
-         sinopse:" Esta imagem foi capturada ao lado de minha prima Marcela, com quem compartilhei a jornada da infância.",
+         sinopse:" Esta pessao da foto é minha prima chamada Marcela, nos dias de hoje não somos muito proximas mas considero ela como uma irmã.",
          imagem:"/prima.jpg"
     },
     {

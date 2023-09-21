@@ -1,24 +1,27 @@
 .content-main{
-    padding: 50px;
+    padding: 70px;
     display: grid;
     grid-template-columns: repeat(5,1fr);
     justify-content: center;
     column-gap: 30px;
     row-gap: 30px;
+    font-size: 16px;
 }
 .barrapesquisa{
-    height: 30px;
-    border: 1px solid #d33c73;
-    width: 30%;
+    height: 35px;
+    border: 2px solid #d33c73;
+    width: 35%;
     border-radius: 5px;
     font-size: 1.4rem;
-}
-.barradepesquisa:focus-visible{
-    outline: 1px solid #d33c73;
+    outline: 0;
+    color: #d33c73;
 }
 .pesquisa{
     padding: 50px;
     text-align: center;
-    font-size: 20px;
-  color: #d33c73;
+    font-size: 35px;
+     color: #d33c73;
+}
+.barrapesquisa:focus{
+    border: 2px solid  #f699cd;
 }
