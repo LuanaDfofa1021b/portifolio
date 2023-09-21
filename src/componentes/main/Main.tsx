@@ -57,7 +57,7 @@ export default function Main() {
     {
         id:7,
         titulo:"Minha Prima",
-         sinopse:" Esta pessao da foto é minha prima chamada Marcela, nos dias de hoje não somos muito proximas mas considero ela como uma irmã.",
+         sinopse:" Esta pessoa da foto é minha prima chamada Marcela, nos dias de hoje não somos muito proximas mas considero ela como uma irmã.",
          imagem:"/prima.jpg"
     },
     {
