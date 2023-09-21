@@ -18,40 +18,40 @@ export default function Main() {
       id: 1,
       titulo: "Luana Delevatti",
       sinopse:
-         "Olá, meu nome é Luana, tenho 17 anos e estou atualmente cursando o último ano do ensino médio no IFMS. Este portfólio será dedicado à apresentação dos meus projetos.",
+         "Olá, meu nome é Luana, tenho 17 anos e estou atualmente cursando o último ano do ensino médio no IFMS. Este portfólio será dedicado à apresentação da minha vida.",
       imagem: "/euzinha.png",
     },
     {
       id: 2,
-      titulo: "Gustavo Baraldi",
+      titulo: "Minha vida",
       sinopse:
-        " Permitam-me apresentar Gustavo Baraldi. Ele é a razão pela qual meu coração bate mais forte e minha vida está cheia de alegria. Gustavo transformou meus dias em uma jornada incrível de amor e felicidade. Estou profundamente grata por tê-lo na minha vida e ansiosa para criar muitas lembranças maravilhosas juntos no futuro",
+        " Gustavo Baraldi. Ele é a razão pela qual meu coração bate mais forte e minha vida está cheia de alegria. Gustavo transformou meus dias em uma jornada incrível de amor e felicidade. Estou profundamente grata por tê-lo na minha vida e ansiosa para criar muitas lembranças maravilhosas juntos no futuro.",
         imagem: "/namorado.jpg",
     },
     {
         id: 3,
         titulo:"Slinky",
-         sinopse:"  O Slinky. Ele não é apenas um cachorro; ele é a razão do meu sorriso todos os dias. Com seus quatro anos de pura alegria e amor, Slinky ilumina cada canto da minha casa e enche meu coração de felicidade. Ele é um membro querido da nossa família, compartilhando conosco momentos de felicidade inigualável.",
+         sinopse:"Ele não é apenas um cachorro, ele é a razão do meu sorriso todos os dias. Com seus quatro anos de pura alegria e amor, Slinky ilumina cada canto da minha casa e enche meu coração de felicidade. Ele é um membro querido da nossa família, compartilhando conosco momentos de felicidades.",
          imagem:"/slinky.jpg"
 
     },
     {
         id:4,
         titulo:"Visita Técnica " ,
-        sinopse:"Esta foto incrível foi capturada na frente da usina em Foz do Iguaçu durante um emocionante projeto de dois dias em parceria com o IFMS . O projeto nos proporcionou a oportunidade única de explorar a imponente usina. Esses dois dias foram uma experiência enriquecedora. Esta foto agora se torna um lembrete dessa experiência inesquecível.  ",
+        sinopse:"Esta foto incrível foi capturada na frente da usina em Foz do Iguaçu durante um projeto de dois dias em parceria com o IFMS . O projeto nos proporcionou a oportunidade única de explorar a imponente usina. Esses dois dias foram um conjunto de conhecimento. Esta foto agora se torna um lembrete dessa experiência inesquecível.",
         imagem:"/foz.jpg"
 
     },
     {
         id:5,
         titulo:"Evento",
-         sinopse:" Esta foto foi tirada no casamneto da mãe da Vitória, foi um momento muito emocionante",
+         sinopse:" Esta foto foi tirada no casameneto da mãe da Vitória, foi um momento muito emocionante",
         imagem:"/euluana.png"
     },
     {
         id:6,
         titulo:"Melhor Amiga",
-         sinopse:" Essa pessoa da foto é a Vitoria, pe minha melhor amiga a quase 10 anos, nos conhecemos na escola no ensino fundamental e desde aquela epoca nao nos larcamos .",
+         sinopse:" Essa pessoa da foto é a Vitoria, minha melhor amiga a quase 10 anos, nos conhecemos na escola no ensino fundamental e desde aquela epoca não nos largamos.",
         imagem:"/se.png"
     },
     {
@@ -63,7 +63,7 @@ export default function Main() {
     {
         id:8,
         titulo:"Karatê ",
-         sinopse:"Esta foto foi tirada em 2016, um ano marcante em minha vida, quando eu estava fazendo karatê.Essa época foi verdadeiramente especial,que me ajudaram a crescer e evoluir como pessoa. .",
+         sinopse:"Esta foto foi tirada em 2016, um ano marcante em minha vida, quando eu estava fazendo karatê.Essa época foi verdadeiramente especial,que me ajudaram a crescer e evoluir como pessoa.",
         imagem:"/karate3.jpg"
     },
     {
@@ -75,7 +75,7 @@ export default function Main() {
     {
         id:10,
         titulo:"Estágio",
-         sinopse:" Essa foi tirada no primeiro dia de estágio no centro de Convivência do Idoso.",
+         sinopse:" Essa foto foi tirada no primeiro dia de estágio no centro de Convivência do Idoso Maria do Céu.",
         imagem:"/estagio.jpg"
 
     }
