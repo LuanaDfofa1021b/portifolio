@@ -20,7 +20,6 @@ header nav ul li a{
     border: 1px solid white;
     color: white;
     align-items: center;
-
 }
 header nav ul{
     display: flex;
