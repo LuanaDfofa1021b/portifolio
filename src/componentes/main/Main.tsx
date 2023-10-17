@@ -93,9 +93,7 @@ export default function Main() {
       <div className="pesquisa">
         <p>Meus  Projetos</p>
         <input className="barrapesquisa" type="text" onChange={mudaTexto} />
-        <div>
-        <p>O texto digitado é: {texto}</p>
-        </div>
+        
       </div>
 
       <main className="content-main">
