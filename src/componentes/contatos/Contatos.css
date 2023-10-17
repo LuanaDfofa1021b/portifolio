@@ -44,3 +44,8 @@
     color: #d33c73;
     font-size: 20px;
   }
+  .luana{
+    display: flex;
+    color: #d33c73;
+    flex-direction: column;
+  }

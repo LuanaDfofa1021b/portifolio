@@ -94,7 +94,7 @@ export default function Main() {
         <p>Meus  Projetos</p>
         <input className="barrapesquisa" type="text" onChange={mudaTexto} />
         <div>
-        
+        <p>O texto digitado é: {texto}</p>
         </div>
       </div>
 
