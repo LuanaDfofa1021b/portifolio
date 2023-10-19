@@ -1,1 +1,1 @@
-{"routers": [{"src": "/[^.] +", "dest": "/", "status": 200}]}
+{"routers": [{"src": "/[^.]+", "dest": "/", "status": 200}]}
